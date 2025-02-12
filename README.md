@@ -1,4 +1,4 @@
-## Hi there 👋 I am learning to find some ![image](https://github.com/user-attachments/assets/9cefffa7-8570-4bc6-a148-c877c46c5ec6)
+## Hi there 👋 I am learning to find ![image](https://github.com/user-attachments/assets/9cefffa7-8570-4bc6-a148-c877c46c5ec6)
 ### My name is Svetlana and I am a QA Automation Junior. Here I want to share my testing portfolio items gained during my studies and pet-projects.
 
 
