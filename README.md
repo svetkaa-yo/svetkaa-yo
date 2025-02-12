@@ -1,6 +1,6 @@
 ## I am learning to find.. <img id="icon1" src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/LadyBugSticker-ezgif.com-crop.gif" alt="ladybug" width="66" height="30">
 
-
+<p dir="auto"> Hi! My name is Svetlana and I am a QA Automation Tester Junior. Here I want to share some testing portfolio items gained during my studies and pet-projects.</p>
 
 
 
