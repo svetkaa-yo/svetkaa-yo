@@ -13,7 +13,7 @@
 </a> <a href="mailto:svetlana.frolova324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a></li>
 <li>🤸 Random facts: I travel by bike over 100 km a day, restore my physical and mental health with yoga therapy and play Nirvana songs on the guitar. </li>
 
-<h3 class="heading-element" dir="auto">🔧 Tools:</h3>
+<h3 class="heading-element" dir="auto">🔧 Tools I Used:</h3>
 
 <h3 class="heading-element" dir="auto">💎 Test Artifacts:</h3>
 
