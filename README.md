@@ -6,11 +6,12 @@
 <ul dir="auto">
 <li> ✅ Finished <a href="https://drive.google.com/drive/folders/1EYtK-N5SPDqanuVt2JAu9OKLENoD82bk" rel="nofollow">Manual Testing Fundamentals and Test Automation Fundamentals course</a> </li>
 <li> ✅ Finished <a href="googlelink" rel="nofollow">*Later here will be link* Software Testing from Scratch course. Theory + Practice.</a> </li>
-<li>📝 Check out my <a href="https://drive.google.com/drive/folders/1EYtK-N5SPDqanuVt2JAu9OKLENoD82bk" rel="nofollow">resume</a></li>
-<li> 📚 Learning Java, SQL and Postman in my free time</li>
+<li>📝 Check out my <a href="https://drive.google.com/drive/folders/1EYtK-N5SPDqanuVt2JAu9OKLENoD82bk" rel="nofollow">Resume</a></li>
+<li> 📚 Learning Java, SQL and Postman in my free time.</li>
 <li>📩 Contact me:  
 <a href="https://www.linkedin.com/in/svfrolova/" rel="nofollow"><img src="https://img.shields.io/badge/@svfrolova-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
 </a> <a href="mailto:svetlana.frolova324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a></li>
+<li>🤸 Random facts about me: I travel by bike over 100 km a day, restore my physical and mental health with yoga therapy and play Nirvana songs on the guitar </li>
 
 
 
