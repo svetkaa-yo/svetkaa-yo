@@ -1,4 +1,4 @@
-## I am learning to find.. <a href="https://github.com/svetkaa-yo">https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Lady%20Bug%20Sticker.gif</a>
+## I am learning to find.. <a href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Lady%20Bug%20Sticker.gif"></a>
 
 
 
