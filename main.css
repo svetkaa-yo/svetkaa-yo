@@ -1,0 +1,5 @@
+#icon1 {
+    object-fit: cover;
+    object-position: 50% -1%;
+    /* Первое вправо,влево, второе вверх вниз */
+}
