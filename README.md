@@ -14,7 +14,7 @@
 <li>🤸 Random facts: I travel by bike over 100 km a day, restore my physical and mental health with yoga therapy and play Nirvana songs on the guitar. </li>
 
 <h3 class="heading-element" dir="auto">🔧 Tools I Used:</h3>
-<p dir="auto">
+<p align="center" dir="auto">
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/jira-original.svg"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/jira-original.svg" title="jira" alt="jira" width="40" height="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/chrome-dev-logo-icon.png"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40" style="max-width: 100%;"></a>
