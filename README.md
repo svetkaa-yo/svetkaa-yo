@@ -17,24 +17,15 @@
 <p dir="auto">
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/jira-original.svg"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/jira-original.svg" title="jira" alt="jira" width="40" height="40" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/chrome-dev-logo-icon.png"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/images.png"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/images.png" title="soapui" alt="soapui" width="40" height="40" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/postman-icon.svg"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/postman-icon.svg" title="postman" alt="postman" width="40" height="40" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/git-original.svg"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/git-original.svg" title="git" alt="git" width="40" height="40" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Bash_Logo_Colored.svg.png"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Bash_Logo_Colored.svg.png" title="bash" alt="bash" width="40" height="40" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/vscode-original.svg"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40" style="max-width: 100%;"></a>
 </p>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/java.png"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/java.png" title="java" alt="java" width="40" height="40" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/selenium.png"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/selenium.png" title="selenium" alt="selenium" width="40" height="40" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/mysql-original.svg"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40" style="max-width: 100%;"></a>
 
 <h3 class="heading-element" dir="auto">💎 Test Artifacts:</h3>
