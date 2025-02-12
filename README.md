@@ -1,4 +1,4 @@
-## I am learning to find.. [![Header](https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Lady%20Bug%20Sticker.gif=100x20)](https://github.com/svetkaa-yo)
+## I am learning to find.. [![Header](https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Lady%20Bug%20Sticker.gif=240x240)](https://github.com/svetkaa-yo)
 
 
 
