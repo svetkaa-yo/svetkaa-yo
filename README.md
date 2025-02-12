@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am learning to find some ![image](https://github.com/user-attachments/assets/9cefffa7-8570-4bc6-a148-c877c46c5ec6)
+
 
 <!--
 **svetkaa-yo/svetkaa-yo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
