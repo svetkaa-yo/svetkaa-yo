@@ -1,4 +1,4 @@
-## I am learning to find.. <img id="icon1" src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Lady%20Bug%20Sticker.gif" alt="ladybug" width="140" height="140">
+## I am learning to find.. <img id="icon1" src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Lady%20Bug%20Sticker.gif" alt="ladybug" width="25" height="25">
 
 
 
