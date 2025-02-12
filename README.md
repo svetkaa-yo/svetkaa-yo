@@ -4,9 +4,11 @@
 
 <p dir="auto"> Hi! My name is Svetlana and I am a QA Automation Tester Junior. Here I want to share some testing portfolio items gained during my studies and pet-projects.</p>
 <ul dir="auto">
+<li> ✅ Finished <a href="https://drive.google.com/drive/folders/1EYtK-N5SPDqanuVt2JAu9OKLENoD82bk" rel="nofollow">Manual Testing Fundamentals and Test Automation Fundamentals course</a> </li>
 <li>📩 Contact me:  
 <a href="https://www.linkedin.com/in/svfrolova/" rel="nofollow"><img src="https://img.shields.io/badge/@svfrolova-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
 </a> <a href="mailto:svetlana.frolova324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a></li>
+
 
 
 
