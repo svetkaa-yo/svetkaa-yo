@@ -11,12 +11,9 @@
 <li>📩 Contact me:  
 <a href="https://www.linkedin.com/in/svfrolova/" rel="nofollow"><img src="https://img.shields.io/badge/@svfrolova-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
 </a> <a href="mailto:svetlana.frolova324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a></li>
-<li>🤸 Random facts about me: I travel by bike over 100 km a day, restore my physical and mental health with yoga therapy and play Nirvana songs on the guitar </li>
+<li>🤸 Random facts: I travel by bike over 100 km a day, restore my physical and mental health with yoga therapy and play Nirvana songs on the guitar. </li>
 
-
-
-
-Tools 
+<h3 class="heading-element" dir="auto">🔧 Tools:</h3>
 
 Test Artifacts
 
