@@ -1,4 +1,4 @@
-[![Header](https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Lady%20Bug%20Sticker.gif)](https://github.com/svetkaa-yo)
+## Hi! I am learning to find [![Header](https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Lady%20Bug%20Sticker.gif)](https://github.com/svetkaa-yo)
 
 About me
 
