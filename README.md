@@ -27,11 +27,11 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/mysql-original.svg"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40" style="max-width: 100%;"></a>
 </p>
 
-<h3 class="heading-element" dir="auto">💎 Test Artifacts:</h3>
+<h3 class="heading-element" dir="auto">💎 Technical tasks and projects:</h3>
 <ul dir="auto">
-  <li>  <a href="https://github.com/svetkaa-yo/AboutMePage_HTML">About me Page - HTML, CSS, Bootstramp, VSCode</a>  </li>
-<li>  <a href="">Webshop testing</a>  </li>
-<li>  <a href=""> REST API testing via Postman </a>   </li>
+<li> <a href="https://github.com/svetkaa-yo/AboutMePage_HTML">About me Page - HTML, CSS, Bootstramp, VSCode</a></li>
+<li> <a href="">Webshop testing</a>  </li>
+<li> <a href=""> REST API testing via Postman </a> </li>
 <li> <a href="">MySQL</a>   </li>
 <li> <a href=""> Bash </a>  </li>
 <li> <a href=""> Git </a> </li>
