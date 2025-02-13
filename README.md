@@ -18,7 +18,6 @@
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/jira-original.svg"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/jira-original.svg" title="jira" alt="jira" width="40" height="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/chrome-dev-logo-icon.png"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/images.png"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/images.png" title="soapui" alt="soapui" width="40" height="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/postman-icon.svg"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/postman-icon.svg" title="postman" alt="postman" width="40" height="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/git-original.svg"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/git-original.svg" title="git" alt="git" width="40" height="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Bash_Logo_Colored.svg.png"><img src="https://github.com/svetkaa-yo/svetkaa-yo/blob/master/assets/Bash_Logo_Colored.svg.png" title="bash" alt="bash" width="40" height="40" style="max-width: 100%;"></a>
@@ -32,7 +31,7 @@
 <ul dir="auto">
   <li>  <a href="https://github.com/svetkaa-yo/AboutMePage_HTML">About me Page - HTML, CSS, Bootstramp, VSCode</a>  </li>
 <li>  <a href="">Webshop testing</a>  </li>
-<li>  <a href=""> REST and SOAP API testing via Postman </a>   </li>
+<li>  <a href=""> REST API testing via Postman </a>   </li>
 <li> <a href="">MySQL</a>   </li>
 <li> <a href=""> Bash </a>  </li>
 <li> <a href=""> Git </a> </li>
