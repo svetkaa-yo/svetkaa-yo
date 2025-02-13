@@ -6,7 +6,7 @@
 <ul dir="auto">
 <li> ✅ Finished <a href="https://drive.google.com/file/d/1Eh3PlwhGeC34S_9rrq8sDAheiZE1zzV0/view" rel="nofollow">Manual Testing Fundamentals and Test Automation Fundamentals course</a> </li>
 <li> ✅ Finished <a href="googlelink" rel="nofollow">*Later here will be link* Software Testing from Scratch course. Theory + Practice.</a> </li>
-<li>📝 Check out my <a href="https://drive.google.com/file/d/1UD5yIJOyZ9n2VHdnCDmmTPNauTUXnEbm/view" rel="nofollow">Resume</a></li>
+<li>📝 Check out my <a href="https://drive.google.com/file/d/1--vUDClrsWZBzOju0_0ggqDJd9yfMCrw/view" rel="nofollow">Resume</a></li>
 <li> 📚 Learning Java, SQL and Postman in my free time.</li>
 <li>📩 Contact me:  
 <a href="https://www.linkedin.com/in/svfrolova/" rel="nofollow"><img src="https://img.shields.io/badge/@svfrolova-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
