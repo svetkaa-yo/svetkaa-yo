@@ -30,7 +30,7 @@
 <h3 class="heading-element" dir="auto">💎 Technical tasks and projects:</h3>
 <ul dir="auto">
 <li> <a href="https://github.com/svetkaa-yo/AboutMePage_HTML">About me Page - HTML, CSS, Bootstramp, VSCode</a></li>
-<li> <a href="">Webshop testing</a>  </li>
+<li> <a href="https://github.com/svetkaa-yo/Jira-Issues/tree/master">Jira Issues</a>  </li>
 <li> <a href=""> REST API testing via Postman </a> </li>
 <li> <a href="">MySQL</a>   </li>
 <li> <a href=""> Bash </a>  </li>
