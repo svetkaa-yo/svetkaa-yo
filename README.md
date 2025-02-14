@@ -33,7 +33,7 @@ target="_blank" >Manual Testing Fundamentals and Test Automation Fundamentals co
 <li> <a target="_blank"  href="https://github.com/svetkaa-yo/AboutMePage_HTML">About me Page - HTML, CSS, Bootstrap, VSCode</a></li>
 <li> <a target="_blank" href="https://github.com/svetkaa-yo/Jira-Issues/tree/master">Jira Issues</a>  </li>
 <li> <a target="_blank" href="https://github.com/svetkaa-yo/Postman-collections"> REST API testing via Postman </a> </li>
-<li> <a target="_blank" href="">MySQL</a>   </li>
+<li> <a target="_blank" href="https://github.com/svetkaa-yo/MySQL">MySQL</a>   </li>
 <li> <a target="_blank" href=""> Bash </a>  </li>
 <li> <a target="_blank" href=""> Java Basics </a> </li>
 <li> <a target="_blank" href=""> PEZDispencer </a>  </li>
