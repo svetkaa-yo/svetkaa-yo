@@ -6,7 +6,7 @@
 <ul dir="auto">
 <li> ✅ Finished <a href="https://drive.google.com/file/d/1Eh3PlwhGeC34S_9rrq8sDAheiZE1zzV0/view"
 target="_blank" >Manual Testing Fundamentals and Test Automation Fundamentals course</a> </li>
-<li> ✅ Finished <a href="googlelink" target="_blank" rel="nofollow">*Later here will be link* Software Testing from Scratch course. Theory + Practice.</a> </li>
+<li> ✅ Finished <a href="https://stepik.org/cert/2753118?lang=en" target="_blank" rel="nofollow">Software Testing from Scratch course. Theory + Practice.</a> </li>
 <li>📝 Check out my <a href="https://drive.google.com/file/d/1--vUDClrsWZBzOju0_0ggqDJd9yfMCrw/view" rel="nofollow" target="_blank" >Resume</a></li>
 <li> 📚 Learning Java, SQL and Postman in my free time.</li>
 <li>📩 Contact me:  
