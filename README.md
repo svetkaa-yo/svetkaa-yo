@@ -4,13 +4,14 @@
 
 <p dir="auto"> Hi! My name is Svetlana and I am a QA Automation Tester Junior. Here I want to share some testing portfolio items gained during my studies.</p>
 <ul dir="auto">
-<li> ✅ Finished <a href="https://drive.google.com/file/d/1Eh3PlwhGeC34S_9rrq8sDAheiZE1zzV0/view" rel="nofollow">Manual Testing Fundamentals and Test Automation Fundamentals course</a> </li>
-<li> ✅ Finished <a href="googlelink" rel="nofollow">*Later here will be link* Software Testing from Scratch course. Theory + Practice.</a> </li>
-<li>📝 Check out my <a href="https://drive.google.com/file/d/1--vUDClrsWZBzOju0_0ggqDJd9yfMCrw/view" rel="nofollow">Resume</a></li>
+<li> ✅ Finished <a href="https://drive.google.com/file/d/1Eh3PlwhGeC34S_9rrq8sDAheiZE1zzV0/view"
+target="_blank" rel="nofollow">Manual Testing Fundamentals and Test Automation Fundamentals course</a> </li>
+<li> ✅ Finished <a href="googlelink" target="_blank" rel="nofollow">*Later here will be link* Software Testing from Scratch course. Theory + Practice.</a> </li>
+<li>📝 Check out my <a href="https://drive.google.com/file/d/1--vUDClrsWZBzOju0_0ggqDJd9yfMCrw/view" rel="nofollow" target="_blank" >Resume</a></li>
 <li> 📚 Learning Java, SQL and Postman in my free time.</li>
 <li>📩 Contact me:  
-<a href="https://www.linkedin.com/in/svfrolova/" rel="nofollow"><img src="https://img.shields.io/badge/@svfrolova-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
-</a> <a href="mailto:svetlana.frolova324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a></li>
+<a href="https://www.linkedin.com/in/svfrolova/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/@svfrolova-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+</a> <a href="mailto:svetlana.frolova324@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a></li>
 <li>🤸 Random facts: I travel by bike over 100 km a day, restore my physical and mental health with yoga therapy and play Nirvana songs on the guitar. </li>
 
 <h3 class="heading-element" dir="auto">🔧 Tools I Used:</h3>
@@ -29,13 +30,13 @@
 
 <h3 class="heading-element" dir="auto">💎 Technical tasks and projects:</h3>
 <ul dir="auto">
-<li> <a href="https://github.com/svetkaa-yo/AboutMePage_HTML">About me Page - HTML, CSS, Bootstrap, VSCode</a></li>
-<li> <a href="https://github.com/svetkaa-yo/Jira-Issues/tree/master">Jira Issues</a>  </li>
-<li> <a href="https://github.com/svetkaa-yo/Postman-collections"> REST API testing via Postman </a> </li>
-<li> <a href="">MySQL</a>   </li>
-<li> <a href=""> Bash </a>  </li>
-<li> <a href=""> Java Basics </a> </li><li> <a href="">MySQL</a>   </li>
-<li> <a href=""> PEZDispencer </a>  </li>
-<li> <a href=""> Automation </a> </li>
+<li> <a target="_blank"  href="https://github.com/svetkaa-yo/AboutMePage_HTML">About me Page - HTML, CSS, Bootstrap, VSCode</a></li>
+<li> <a target="_blank" href="https://github.com/svetkaa-yo/Jira-Issues/tree/master">Jira Issues</a>  </li>
+<li> <a target="_blank" href="https://github.com/svetkaa-yo/Postman-collections"> REST API testing via Postman </a> </li>
+<li> <a target="_blank" href="">MySQL</a>   </li>
+<li> <a target="_blank" href=""> Bash </a>  </li>
+<li> <a target="_blank" href=""> Java Basics </a> </li><li> <a href="">MySQL</a>   </li>
+<li> <a target="_blank" href=""> PEZDispencer </a>  </li>
+<li> <atarget="_blank"  href=""> Automation </a> </li>
 </ul>
 
