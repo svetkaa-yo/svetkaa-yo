@@ -34,6 +34,8 @@
 <li> <a href="https://github.com/svetkaa-yo/Postman-collections"> REST API testing via Postman </a> </li>
 <li> <a href="">MySQL</a>   </li>
 <li> <a href=""> Bash </a>  </li>
-<li> <a href=""> Git </a> </li>
+<li> <a href=""> Java Basics </a> </li><li> <a href="">MySQL</a>   </li>
+<li> <a href=""> PEZDispencer </a>  </li>
+<li> <a href=""> Automation </a> </li>
 </ul>
 
