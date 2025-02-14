@@ -36,7 +36,7 @@ target="_blank" >Manual Testing Fundamentals and Test Automation Fundamentals co
 <li> <a target="_blank" href="https://github.com/svetkaa-yo/MySQL">MySQL</a>   </li>
 <li> <a target="_blank" href=""> Bash </a>  </li>
 <li> <a target="_blank" href="https://github.com/svetkaa-yo/java-learning/tree/master?tab=readme-ov-file"> Java Basics </a> </li>
-<li> <a target="_blank" href=""> PEZDispencer </a>  </li>
-<li> <a target="_blank" href=""> Automation </a> </li>
+<li> <a target="_blank" href="https://github.com/svetkaa-yo/PEZDispenser/tree/master/src/main/java/lv/acodemy/pez"> CLI Java App "PEZDispencer" </a>  </li>
+<li> <a target="_blank" href="https://github.com/svetkaa-yo/saucedemo-automation"> Test Automation example, Java, Selenium Webdriver </a> </li>
 </ul>
 
