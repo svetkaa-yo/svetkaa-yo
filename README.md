@@ -37,6 +37,6 @@ target="_blank" >Manual Testing Fundamentals and Test Automation Fundamentals co
 <li> <a target="_blank" href=""> Bash </a>  </li>
 <li> <a target="_blank" href=""> Java Basics </a> </li><li> <a href="">MySQL</a>   </li>
 <li> <a target="_blank" href=""> PEZDispencer </a>  </li>
-<li> <atarget="_blank"  href=""> Automation </a> </li>
+<li> <a target="_blank" href=""> Automation </a> </li>
 </ul>
 
