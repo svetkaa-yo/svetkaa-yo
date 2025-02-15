@@ -8,7 +8,7 @@
 target="_blank" >Manual Testing Fundamentals and Test Automation Fundamentals course</a> </li>
 <li> ✅ Finished <a href="https://stepik.org/cert/2753118?lang=en" target="_blank" rel="nofollow">Software Testing from Scratch course. Theory + Practice.</a> </li>
 <li>📝 Check out my <a href="https://drive.google.com/file/d/1--vUDClrsWZBzOju0_0ggqDJd9yfMCrw/view" rel="nofollow" target="_blank" >Resume</a></li>
-<li> 📚 Learning Java, SQL and Postman in my free time.</li>
+<li> 📚 Learning Java, HTML+CSS and SQL in my free time.</li>
 <li>📩 Contact me:  
 <a href="https://www.linkedin.com/in/svfrolova/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/@svfrolova-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
 </a> <a href="mailto:svetlana.frolova324@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a></li>
