@@ -40,3 +40,5 @@ target="_blank" >Manual Testing Fundamentals and Test Automation Fundamentals co
 <li> <a target="_blank" href="https://github.com/svetkaa-yo/saucedemo-automation"> Test Automation example, Java, Selenium Webdriver </a> </li>
 </ul>
 
+Добавить SQL ZOO и Murder Mystery
+Добавить Decision table testing
