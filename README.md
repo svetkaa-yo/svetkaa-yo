@@ -31,7 +31,7 @@ target="_blank" >Manual Testing Fundamentals and Test Automation Fundamentals co
 <h3 class="heading-element" dir="auto">💎 Technical tasks and projects:</h3>
 <ul dir="auto">
 <li> <a target="_blank"  href="https://github.com/svetkaa-yo/AboutMePage_HTML">About me Page - HTML, CSS, Bootstrap, VSCode</a></li>
-<li> <a target="_blank" href="https://github.com/svetkaa-yo/Jira-Issues/tree/master">Jira Issues</a>  </li>
+<li> <a target="_blank" href="https://github.com/svetkaa-yo/Jira-Issues/tree/master">Jira Practice</a>  </li>
 <li> <a target="_blank" href="https://github.com/svetkaa-yo/Postman-collections"> REST API testing via Postman </a> </li>
 <li> <a target="_blank" href="https://github.com/svetkaa-yo/MySQL">MySQL</a>   </li>
 <li> <a target="_blank" href="https://github.com/svetkaa-yo/java-learning/tree/master?tab=readme-ov-file"> Java Basics </a> </li>
