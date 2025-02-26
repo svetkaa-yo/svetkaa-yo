@@ -41,5 +41,5 @@ target="_blank" >Manual Testing Fundamentals and Test Automation Fundamentals co
 <p>
 </p>
 <p>
-*Добавить testing techniques*
+
 </p>
